@@ -1,7 +1,7 @@
 {
-  "name": "tomer-example-contentful-theExampleApp-js",
+  "name": "tomer-contentful-theExampleApp-js",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start:watch": "nodemon ./bin/www --ignore public/",
     "start:dev": "node ./bin/www",
